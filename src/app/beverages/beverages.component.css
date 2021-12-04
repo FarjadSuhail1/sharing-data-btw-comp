@@ -1,4 +1,4 @@
-.parent {
+.child {
   border: 1px solid red;
   margin: 20px;
   padding: 20px;
@@ -7,8 +7,4 @@
 h2 {
   text-align: center;
   color: #1976d2;
-}
-
-li {
-  list-style: circle;
 }
